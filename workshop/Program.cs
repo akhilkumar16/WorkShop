@@ -9,6 +9,7 @@ namespace workshop
             Console.WriteLine("Game of Tic-Tac-Toe");
             uc1 uc1 = new uc1();
             uc1.BoardMethod();
+            uc1.Choose();
         }
     }
 }
